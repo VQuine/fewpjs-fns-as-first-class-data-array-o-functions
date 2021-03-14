@@ -18,4 +18,4 @@ const src = babelResult.code
 
 jsdom({
   html, src, url
-});
+}); 
